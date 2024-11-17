@@ -8,8 +8,16 @@
   ],
   "routes": [
     {
-      "src": "/(.*)",
-      "dest": "index.js"
+      "src": "/name",
+      "dest": "/index.js"
+    },
+    {
+      "src": "/hobby",
+      "dest": "/index.js"
+    },
+    {
+      "src": "/dream",
+      "dest": "/index.js"
     }
   ]
 }
