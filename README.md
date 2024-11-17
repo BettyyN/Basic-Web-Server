@@ -34,9 +34,9 @@ Simple Node.js web server that responds with static message on different route.
 
 ## Endpoints
 
--  GET `/name` : Returns a plain text response with your name.
--  GET `/hobby` : Returns a JSON response with your hobbies.
--  GET `/dream` : Returns a JSON response with your dream or goal.
+-  GET `/name` : Returns a plain text response with name.
+-  GET `/hobby` : Returns a JSON response with hobbies.
+-  GET `/dream` : Returns a JSON response with dream.
 
 ## Deployment
 
